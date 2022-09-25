@@ -1,0 +1,12 @@
+20220917	20:28:00	ebb8e19a-7b5b-4e4d-a4d3-42308bd435b6	TypeError: fsPromises.readFil is not a function
+20220918	14:58:13	559d05c6-7a27-4d56-9e0d-114477f389c7	Error: Not allowed by CORS
+20220920	23:08:42	7b25bd81-b15c-4aaa-a26b-a7b3f1e7d3e9	ReferenceError: id is not defined
+20220920	23:09:06	5f6179c8-9ba2-4614-9583-754c14dd9d77	ReferenceError: id is not defined
+20220920	23:17:56	6d3cd5a2-a3d9-4931-b91b-de9af1ece82d	ReferenceError: id is not defined
+20220920	23:17:56	0c47e82b-a898-49e2-b505-8933e578bd7b	ReferenceError: id is not defined
+20220923	17:15:33	cb93135c-9885-4107-bb09-e79353622e00	TypeError: Cannot read properties of undefined (reading 'SECRET')
+20220923	17:23:04	39ce2c85-6382-4a52-92a9-96f32aa85bc1	ReferenceError: print is not defined
+20220924	23:41:56	0060e90d-984b-49b9-9cc8-d6ad2f1d4cfc	SyntaxError: Unexpected token f in JSON at position 10
+20220924	23:46:51	05e523ce-5177-4499-bb8f-0c033c1ac50e	SyntaxError: Unexpected token f in JSON at position 10
+20220924	23:55:08	472f50ec-21f8-4e34-bc8d-3680e3fd513a	SyntaxError: Unexpected token f in JSON at position 10
+20220924	23:56:49	a8b537a2-822f-4514-a7ae-747ccd1c0d94	SyntaxError: Unexpected token f in JSON at position 10
